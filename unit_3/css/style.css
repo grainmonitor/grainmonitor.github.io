@@ -16,3 +16,8 @@ h1 {
 #tagline {
 	font-weight: bold;
 }
+
+#header {
+	text-align: left;
+	background: black;
+}
