@@ -5,13 +5,14 @@ body {
 	background: url("http://www.bedlamfarm.com/wp-content/uploads/2013/08/Hazy-Dusk-Cornfield.jpg");
 	background-size: cover;
 	font-family: 'PT Sans', sans-serif;
-	color: #FFD700;
+	color: black;
 }
 h1 {
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	text-align: left;
 	font-size: 1200x;
+	color: #FFD700;
 }
 
 #email {
