@@ -1,0 +1,29 @@
+
+@import url(https://fonts.googleapis.com/css?family=Oswald:700);
+
+body {
+	background: url("http://www.bedlamfarm.com/wp-content/uploads/2013/08/Hazy-Dusk-Cornfield.jpg");
+	background-size: cover;
+	font-family: 'PT Sans', sans-serif;
+	color: #FFD700;
+}
+h1 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: bold;
+	text-align: left;
+	font-size: 800x;
+}
+
+#email {
+	text-align: left;
+	position: fixed;
+	bottom: 0;
+	Width: 100%;
+}
+
+#tagline {
+	font-weight: bold;
+	text-align: center;
+	font-size: 600x;
+}
+
