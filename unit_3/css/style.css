@@ -12,6 +12,9 @@ h1 {
 
 #email {
 	text-align: left;
+	position: fixed;
+	bottom: 0;
+	Width: 100%;
 }
 
 #tagline {
