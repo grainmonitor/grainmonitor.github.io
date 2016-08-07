@@ -33,4 +33,7 @@ h1 {
 	font-family: 'Roboto Slab', serif;
 	font-style: bold;
 	font-size: 1em;
+	line-height: 1.5em;
+	margin: 2em;
+	align: center;
 }
