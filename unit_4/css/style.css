@@ -17,10 +17,12 @@ h1 {
 }
 
 div {
-	width: 300px;
-	border: 25px solid green;
-	padding: 25px;
-	margin: 25px;
+	width: 600px;
+	border: 5px #000000;
+	padding: 5px;
+	margin: 5px;
+	background-color: #024800;
+	opacity: 0.17;
 }
 
 #email {
@@ -38,6 +40,7 @@ div {
 
 #pagedescription {
 	font-family: 'Roboto Slab', serif;
+	color: #FFFFFF;
 	font-style: bold;
 	font-size: 1em;
 	line-height: 1.5em;
