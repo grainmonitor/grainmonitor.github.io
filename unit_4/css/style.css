@@ -16,6 +16,13 @@ h1 {
 	color: #FFD700;
 }
 
+div {
+	width: 300px;
+	border: 25px solid green;
+	padding: 25px;
+	margin: 25px;
+}
+
 #email {
 	text-align: right;
 	position: fixed;
