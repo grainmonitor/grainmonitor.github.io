@@ -20,7 +20,21 @@ header {
 	text-align: left;
 	font-size: 1.25em;
 	color: #000;
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
 
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 h1 {
@@ -35,6 +49,9 @@ aside {
 	font-family: 'Roboto Slab', serif;
 	font-size: 1em;
 	color: #000;
+	background-color: #FFC675;
+	border: 1px black solid;
+	padding: 20px;
 }
 
 ul {
@@ -46,4 +63,7 @@ ul {
 footer {
 	text-align: center;
 	padding: 1em 0;
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px;
 }
