@@ -9,8 +9,7 @@ body {
 nav {
 	font-size: 1.5em;
 	background-color: #CCCFBC;
-	border-bottom-color: #507642;
-	bottom-border-width: 4px;
+	border-bottom: 4px solid #507642;
 }
 
 nav a {
