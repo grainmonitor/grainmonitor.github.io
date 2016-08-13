@@ -48,6 +48,16 @@ a:hover {
 	height: 0;
 }
 
+#pagedescription {
+	font-family: 'Roboto Slab', serif;
+	color: #FFFFFF;
+	font-style: bold;
+	font-size: 1em;
+	line-height: 1.5em;
+	margin: 2em;
+	align: center;
+}
+
 #two_column{
 	background-color: rgba(222,207,1,.5);
 	padding: 20px;
