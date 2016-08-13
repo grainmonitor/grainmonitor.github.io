@@ -15,8 +15,9 @@ h1 {
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	text-align: left;
-	font-size: 2em;
+	font-size: 3em;
 	color: #FFD700;
+	background-color: #507642
 }
 
 nav {
