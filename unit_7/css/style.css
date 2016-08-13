@@ -18,7 +18,7 @@ h1 {
 	text-align: left;
 	font-size: 3em;
 	color: #507642;
-	padding: 20px;
+	padding: 50px;
 }
 
 nav {
@@ -70,12 +70,14 @@ img {
 	padding: 20px;
 	float: left;
 	width: 62%;
+	border: 1px black solid;
 }
 
 #right {
 	padding: 20px;
 	float: right;
 	width: 32%;
+	border: 1px black solid;
 }
 
 footer {
