@@ -25,6 +25,16 @@ header {
 	padding: 20px;
 }
 
+nav {
+	font-size: 1.8em;
+	float: right;
+}
+
+nav a {
+	margin: 1.8em;
+	display: inline-block;
+}
+
 #two_column{
 	background-color: #FFB7CF;
 	border: 1px black solid;
