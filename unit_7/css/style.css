@@ -34,3 +34,9 @@ a:hover {
 	clear: both;
 	height: 0;
 }
+
+footer {
+	text-align: right;
+	font-size: .75em;
+	background-color: #CCCFBC;
+}
