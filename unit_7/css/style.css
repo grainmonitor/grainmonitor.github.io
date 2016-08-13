@@ -2,6 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
 body {
+	background-color: rgba(222,207,1,.5);
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	color: #000;
