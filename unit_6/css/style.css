@@ -35,6 +35,11 @@ nav a {
 	display: inline-block;
 }
 
+a.link {
+	text-decoration: none;
+}
+
+}
 #two_column{
 	background-color: #FFB7CF;
 	border: 1px black solid;
