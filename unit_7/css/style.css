@@ -1,0 +1,35 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
+
+body {
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: #000;
+}
+
+nav {
+	float: left;
+	font-size: 0.9em;
+	background-color: #CCCFBC;
+	border-bottom-color: #507642;
+	bottom-border-width: 4px;
+}
+
+nav a {
+	display: inline-block;
+	padding: 20px;
+	text-decoration: none;
+}
+
+a:hover {
+	background-color: #507642;
+	color: white;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: " ";
+	clear: both;
+	height: 0;
+}
