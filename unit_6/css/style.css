@@ -25,11 +25,6 @@ header {
 	padding: 20px;
 }
 
-nav {
-	font-size: 0.9em;
-	float: right;
-}
-
 nav a {
 	display: inline-block;
 	padding: 20px;
@@ -79,7 +74,9 @@ article {
 }
 
 nav {
-	background-color: #E8C66A;
+	float: left;
+	font-size: 0.9em;
+	background-color: #aaa;
 	border: 1px black solid;
 	padding: 20px;
 }
