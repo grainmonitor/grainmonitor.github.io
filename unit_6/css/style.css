@@ -1,62 +1,42 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:700);
 @import url(https://fonts.googleapis.com/css?family=Roboto+Slab);
 
-#tagline {
-	font-weight: bold;
-	text-align: left;
-	font-size: 1.25em;
-}
-
 body {
+	background-color: rgba(222,207,1,.5);
 	font-family: 'Roboto Slab', serif;
 	font-size: 16px;
 	color: #000;
 }
 
-
-header {
+h1 {
+	position: absolute;
+	right: 0;
+	top: 0;
+	left: 0;
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	text-align: left;
-	font-size: 2em;
-	color: #000;
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
+	font-size: 3em;
+	color: #507642;
+}
+
+nav {
+	font-size: 1.5em;
+	background-color: #CCCFBC;
+	border-bottom: 4px solid #507642;
 }
 
 nav a {
+	float: right;
 	display: inline-block;
 	padding: 20px;
 	text-decoration: none;
+	color: #000;
 }
 
 a:hover {
 	background-color: #507642;
 	color: white;
-}
-
-}
-#two_column{
-	background-color: #FFB7CF;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#left {
-	background-color: #E582A2;
-	border: 1px black solid;
-	padding: 20px;
-	float: left;
-	width: 62%;
-}
-
-#right {
-	background-color: #E55B88;
-	border: 1px black solid;
-	padding: 20px;
-	float: right;
-	width: 32%;
 }
 
 .clearfix:after {
@@ -68,48 +48,45 @@ a:hover {
 	height: 0;
 }
 
-article {
-	background-color: #E89C6C;
-	border: 1px black solid;
-	padding: 20px;
-}
+img {
+	display: block;
+	margin: 0 auto;
+  	width: 25%;
+} 
 
-nav {
-	float: left;
-	font-size: 0.9em;
-	background-color: #CCCFBC;
-	border-bottom-color: #507642;
-	bottom-border-width: 4px;
-}
-
-h1 {
-	font-family: 'Oswald', sans-serif;
-	font-weight: bold;
-	text-align: left;
-	font-size: 2em;
-	color: #FFD700;
-}
-
-aside {
-	font-family: 'Roboto Slab', serif;
-	font-size: 1em;
-	color: #000;
-	background-color: #FFC675;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-ul {
-  list-style: none;
+#hero {
+  display: block;
+  width: 100%;
   margin: 0;
-  padding: 0;
+  background: #fffebb;
+}
+
+#two_column{
+	padding: 20px;
+}
+
+#left {
+	padding: 20px;
+	float: left;
+	width: 62%;
+	border: 0.5px black solid;
+}
+
+#right {
+	padding: 20px;
+	float: right;
+	width: 32%;
+	border: 0.5px black solid;
 }
 
 footer {
+	position: absolute;
+	right: 0;
+	bottom: 0;
+	left: 0;
 	text-align: right;
+	font-size: .85em;
 	padding: 1em 0;
-	font-size: .75em;
-	background-color: #FF957E;
-	border: 1px black solid;
-	padding: 20px;
+	background-color: #CCCFBC;
+	border-top: 4px solid #507642;
 }
