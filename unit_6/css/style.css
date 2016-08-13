@@ -14,7 +14,7 @@ body {
 }
 
 
-header {
+header a {
 	font-family: 'Oswald', sans-serif;
 	font-weight: bold;
 	text-align: left;
@@ -23,6 +23,7 @@ header {
 	background-color: #FFED74;
 	border: 1px black solid;
 	padding: 20px;
+	text-decoration: none;
 }
 
 nav {
@@ -33,6 +34,7 @@ nav {
 nav a {
 	margin: 1.8em;
 	display: inline-block;
+	text-decoration: none;
 }
 
 a.link {
