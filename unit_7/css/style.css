@@ -70,14 +70,14 @@ img {
 	padding: 20px;
 	float: left;
 	width: 62%;
-	border: 1px black solid;
+	border: 0.5px black solid;
 }
 
 #right {
 	padding: 20px;
 	float: right;
 	width: 32%;
-	border: 1px black solid;
+	border: 0.5px black solid;
 }
 
 footer {
