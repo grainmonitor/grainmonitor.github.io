@@ -49,20 +49,6 @@ a:hover {
 	height: 0;
 }
 
-#pagedescription {
-	font-family: 'Roboto Slab', serif;
-	color: black;
-	font-style: bold;
-	font-size: 1em;
-	line-height: 1.5em;
-	margin: 2em;
-	align: center;
-	width: 800px;
-	border: 3px #000000;
-	padding: 1px;
-	margin: 0 auto;
-}
-
 #two_column{
 	background-color: rgba(222,207,1,.5);
 	padding: 20px;
