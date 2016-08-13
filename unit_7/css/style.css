@@ -7,7 +7,6 @@ body {
 }
 
 nav {
-	float: right;
 	font-size: 1.5em;
 	background-color: #CCCFBC;
 	border-bottom-color: #507642;
@@ -15,6 +14,7 @@ nav {
 }
 
 nav a {
+	float: right;
 	display: inline-block;
 	padding: 20px;
 	text-decoration: none;
