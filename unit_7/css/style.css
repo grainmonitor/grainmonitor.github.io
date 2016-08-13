@@ -49,7 +49,7 @@ a:hover {
 }
 
 #two_column{
-	background-color: rgb(222,207,1);
+	background-color: rgba(222,207,1,.5);
 	padding: 20px;
 }
 
