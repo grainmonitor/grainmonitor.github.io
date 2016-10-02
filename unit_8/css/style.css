@@ -90,3 +90,9 @@ footer {
 	background-color: #CCCFBC;
 	border-top: .25em solid #507642;
 }
+
+@media only screen and (max-width: 830px){
+	nav {
+		font-size: 1em;
+	}
+}
